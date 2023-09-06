@@ -35,10 +35,4 @@ I appreciate your interest in this project. If you have any questions, feedback,
 
 
 
-Maximize compose field
-Attach an image to your conversation with Md Rawfur Monzur Jim
-Attach a file to your conversation with Md Rawfur Monzur Jim
 
-Open GIF Keyboard
-
-Open Emoji Keyboard
