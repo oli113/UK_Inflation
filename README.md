@@ -15,7 +15,8 @@ Critical measures were derived using Data Analysis Expressions (DAX). The final 
 # Key Findings
 The project led to some key findings about the factors influencing inflation trends and the effects of inflation on different sectors.
 
-<img width="960" alt="image_1" src="https://github.com/RawfurJim/UK_Inflation_Analysis/assets/64610564/d16ff2d6-f4d5-4a32-a7ca-722e8aa115ec">
+![Img1](https://github.com/oli113/UK_Inflation/assets/107064352/7ff5daa9-fd13-4c32-b325-15e18a961951)
+
 <img width="952" alt="image_2" src="https://github.com/RawfurJim/UK_Inflation_Analysis/assets/64610564/bcabdd4d-dfa5-46d2-8ecd-6f5d6596db0d">
 
 Detailed findings and visualizations can be found in the project repository.
