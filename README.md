@@ -7,9 +7,8 @@ The UK Inflation Impact Analysis Project is an in-depth study on the effects of 
 In this project, data was acquired from various sources, cleaned and structured using Microsoft Excel and Python's Pandas library. Relationships were established and the data was further restructured using Power Query.
 
 TO BETTER UNDERSTANT OF THE PROJECT HERE IS THE RELATIONSHIP GRAPH
-<img width="492" alt="image_3" src="https://github.com/RawfurJim/UK_Inflation_Analysis/assets/64610564/00b289f9-f5e0-41e3-9a13-23dc3ab92a0f">
-<img width="495" alt="image_4" src="https://github.com/RawfurJim/UK_Inflation_Analysis/assets/64610564/b166f16c-c099-422e-b218-c0b1390738fa">
-
+![Img3](https://github.com/oli113/UK_Inflation/assets/107064352/04c84ca7-23fa-4c01-a9b5-30bd23d1ae41)
+![Img4](https://github.com/oli113/UK_Inflation/assets/107064352/aba49cc0-beb7-4037-bb5f-fbf03d9ff6e2)
 Critical measures were derived using Data Analysis Expressions (DAX). The final insights were delivered through comprehensive data visualization in Power BI. This methodology allowed us to gain a deeper understanding of the data and extract meaningful insights from it.
 
 # Key Findings
@@ -17,7 +16,7 @@ The project led to some key findings about the factors influencing inflation tre
 
 ![Img1](https://github.com/oli113/UK_Inflation/assets/107064352/7ff5daa9-fd13-4c32-b325-15e18a961951)
 
-<img width="952" alt="image_2" src="https://github.com/RawfurJim/UK_Inflation_Analysis/assets/64610564/bcabdd4d-dfa5-46d2-8ecd-6f5d6596db0d">
+![Img2](https://github.com/oli113/UK_Inflation/assets/107064352/ee908784-7dc1-4b94-b619-764bbb2ba1b9)
 
 Detailed findings and visualizations can be found in the project repository.
 
